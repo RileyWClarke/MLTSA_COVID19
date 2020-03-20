@@ -2,6 +2,7 @@
 MLTSA Spring 2020 Project
 
 Team Members:
+
 Data Manager - Shaquann Seadrow
 
 Methodology Manager - Jinbiao Ji
