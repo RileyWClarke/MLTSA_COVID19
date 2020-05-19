@@ -1,5 +1,5 @@
 # MLTSA_COVID19
-MLTSA Spring 2020 Project
+MLTSA Spring 2020 Project - The handling of the Covid-19 outbreak in South Korea is unusual in how effective the country was in “flattening the curve” without imposing severe quarantine restrictions. We have done work trying to understand and characterize the outbreak in South Korea to gain insight into its success. Facebook Prophet’s modular regression model was chosen to analyze the death counts in Korea and look for changepoints. These changepoints were tentatively linked to policy decisions. Finally, we used this information to compare to several states in the United States. 
 
 ## Team Members:
 
