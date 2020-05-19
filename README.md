@@ -15,12 +15,21 @@ Literature Manager - Adam Marrs
 
 
 ## Notebooks:
+Covid19_data_set_acquisiton gathers all data sets and stores in appropriate directories from other note books run. 
+(if you have access to the share drive you do not have to run this). If you want to run from scratch have to make share drive folder first. 
 
-CovidModelsAdam is used to make Figures 1,2,3.
+Covid19_data_prep takes look at data, creates new csv files as need. 
+
+CovidModelsAdam is used to make Figures 1,3.
 
 covid19_dist is used to compute distance metrics, produce Figure 6, Table 2.
 
-COVID-19-South Korea.ipynb and Covid-19-US.ipynb are used to make Figure 5.
+COVID-19-South Korea.ipynb and Covid-19-US.ipynb are used to make Figure 5. 
+
+Covid19_analysis.ipynb used to make figure 2, table 3, and discussion of cross correlations.
+
+Covid19_weahter_prep was for if we get to the point where we will incorpoarate weather. 
+
 
 
 ## Data:
