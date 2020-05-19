@@ -28,7 +28,9 @@ COVID-19-South Korea.ipynb and Covid-19-US.ipynb are used to make Figure 5.
 
 Covid19_analysis.ipynb used to make figure 2, table 3, and discussion of cross correlations.
 
-Covid19_weahter_prep was for if we get to the point where we will incorpoarate weather. 
+Covid19_weahter_prep was for if we get to the point where we will incorpoarate weather.
+
+The NB'S written by shaquann will have to be downloaded then uploaded into the google drive (collab and git not synched). 
 
 
 
