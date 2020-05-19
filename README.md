@@ -21,4 +21,4 @@ CovidModelsAdam is used to make Figures 1,2,3
 
 covid19_dist is used to compute distance metrics, produce Figure 6, Table 2
 
-COVID-19-South Korea and Covid-19-US is used to make Figure 5.
+COVID-19-South Korea.ipynb and Covid-19-US.ipynb are used to make Figure 5.
