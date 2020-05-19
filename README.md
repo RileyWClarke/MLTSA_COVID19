@@ -23,6 +23,8 @@ covid19_dist is used to compute distance metrics, produce Figure 6, Table 2
 
 COVID-19-South Korea.ipynb and Covid-19-US.ipynb are used to make Figure 5.
 
+----------------------------------------
+
 Time.csv: South Korea data
 
 us_covid19_daily.csv: US data
