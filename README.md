@@ -29,4 +29,4 @@ Time.csv: South Korea data
 
 us_covid19_daily.csv: US data
 
-us_states_covid19_daily.csv US data by each state
+us_states_covid19_daily.csv: US data for each state
