@@ -15,7 +15,7 @@ Literature Manager - Adam Marrs
 
 
 ## Notebooks:
-Covid19_data_set_acquisiton gathers all data sets and stores in appropriate directories from other note books run. 
+Covid19_data_set_acquisiton gathers all data sets and stores in appropriate directories from which some other notebooks run. 
 (if you have access to the share drive you do not have to run this). If you want to run from scratch have to make share drive folder first. 
 
 Covid19_data_prep takes look at data, creates new csv files as need. 
